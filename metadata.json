@@ -1,0 +1,6 @@
+{
+  "name": "Viu - Asian Dramas, K-Drama & Anime Streaming",
+  "description": "Stream the best Asian entertainment, exclusive Viu Originals, blockbuster Korean dramas, variety shows, and anime with English and Chinese subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
